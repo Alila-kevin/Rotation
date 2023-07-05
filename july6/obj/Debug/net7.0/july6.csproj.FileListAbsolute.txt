@@ -1,0 +1,15 @@
+D:\C#\july6\july6\bin\Debug\net7.0\july6.exe
+D:\C#\july6\july6\bin\Debug\net7.0\july6.deps.json
+D:\C#\july6\july6\bin\Debug\net7.0\july6.runtimeconfig.json
+D:\C#\july6\july6\bin\Debug\net7.0\july6.dll
+D:\C#\july6\july6\bin\Debug\net7.0\july6.pdb
+D:\C#\july6\july6\obj\Debug\net7.0\july6.csproj.AssemblyReference.cache
+D:\C#\july6\july6\obj\Debug\net7.0\july6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\july6\july6\obj\Debug\net7.0\july6.AssemblyInfoInputs.cache
+D:\C#\july6\july6\obj\Debug\net7.0\july6.AssemblyInfo.cs
+D:\C#\july6\july6\obj\Debug\net7.0\july6.csproj.CoreCompileInputs.cache
+D:\C#\july6\july6\obj\Debug\net7.0\july6.dll
+D:\C#\july6\july6\obj\Debug\net7.0\refint\july6.dll
+D:\C#\july6\july6\obj\Debug\net7.0\july6.pdb
+D:\C#\july6\july6\obj\Debug\net7.0\july6.genruntimeconfig.cache
+D:\C#\july6\july6\obj\Debug\net7.0\ref\july6.dll
