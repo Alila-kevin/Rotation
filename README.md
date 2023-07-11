@@ -32,6 +32,8 @@ So the array becomes arr[] = {3, 4, 5, 6, 7, 1, 2}
 
 #Link List
 
-Deque is also known as double ended queue. Module also provides different in-built methods. One of them is “rotate”.
+Deque is also known as double ended queue. 
+Module also provides different in-built methods.
+One of them is “rotate”.
 Time complexity: The time complexity of the code is O(d*n), where d is the number of rotations and n is the size of the deque. 
 The auxiliary space is O(n), where n is the size of the deque.
