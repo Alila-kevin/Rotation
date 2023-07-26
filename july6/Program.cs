@@ -6,7 +6,7 @@
         // bellow while loop detamine how many times should rotation take 
         while(p <= d){
 
-            int last = arr[0]; // the value which should rotate @
+            int last = arr[0]; // the value which should rotate 
             //below loop detemine how many times should another array be added
             for(int i=0; i < N-1; i++)
             {
@@ -57,5 +57,6 @@
         Console.WriteLine(string.Join( " ", deq));
 
         Console.ReadKey();
+        //contact alilakevin4@gmail.com
     }
 }
